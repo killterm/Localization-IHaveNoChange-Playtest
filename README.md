@@ -19,5 +19,5 @@
 
 ## 사용법
 
-1. 최신 Release 다운로드
+1. [최신 Release](https://github.com/killterm/Localization-IHaveNoChange-Playtest/releases) 다운로드
 2. 게임 설치 경로로 이동
